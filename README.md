@@ -10,7 +10,7 @@
 <br><br>
 💬 Feel free to reach out if you have any questions related to web development, software architecture, or best coding practices. I'd love to share my knowledge and experiences to support fellow developers and enthusiasts.
 <br><br>
-⚡ Here's a fun fact about me: When I'm not coding or in the kitchen experimenting with new recipes, you can find me either engrossed in computer games or playing football. These hobbies serve as a perfect escape from the digital and coding world, allowing me to relax, recharge, and have some fun with friends and fellow gamers on virtual battlefields or real football fields! 🎮⚽
+⚡ Here's a fun fact about me: When I'm not coding, you can find me either engrossed in computer games or playing football. These hobbies serve as a perfect escape from the digital and coding world, allowing me to relax, recharge, and have some fun with friends and fellow gamers on virtual battlefields or real football fields! 🎮⚽
 Let's connect and share our gaming or football experiences sometime! 🕹️🏆
 <br>
 
