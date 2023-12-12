@@ -19,6 +19,7 @@
 ⚡ When I'm not coding, I'm either gaming 🎮 or playing football ⚽—a perfect escape from the digital world! Let's connect and share our experiences! 🕹️🏆
 <br><br>
 👨‍💻 Stay tuned for updates on my GitHub repositories as the coding adventure unfolds!
+<br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alirahmon-nuraliev/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/alirahmonn7) [![Telegram](https://img.shields.io/badge/Telegram-%230077BF.svg?logo=telegram&logoColor=white)](https://t.me/nuraliev77)
