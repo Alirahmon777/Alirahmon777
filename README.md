@@ -11,13 +11,13 @@
 💻 Implementing robust back-end functionalities with Node.js and Express.
 <br><br>
 📈 Eagerly learning and integrating new technologies to ensure up-to-date and superior user experiences.
-<br>
+<br><br>
 🌱 Constantly evolving in the ever-changing realm of web development.
-<br>
+<br><br>
 📚 Embracing a never-ending cycle of learning, growth, and self-improvement.
-<br>
+<br><br>
 ⚡ When I'm not coding, I'm either gaming 🎮 or playing football ⚽—a perfect escape from the digital world! Let's connect and share our experiences! 🕹️🏆
-<br>
+<br><br>
 👨‍💻 Stay tuned for updates on my GitHub repositories as the coding adventure unfolds!
 
 ## 🌐 Socials:
